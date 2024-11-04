@@ -9,10 +9,10 @@
                          THE MACMILLAN COMPANY
                                  1920
 
-                      _All rights reserved_
+                         _All rights reserved_
 
-                         COPYRIGHT, 1920,
-                     BY THE MACMILLAN COMPANY
+                           COPYRIGHT, 1920,
+                       BY THE MACMILLAN COMPANY
 
            Set up and electrotyped. Published, October, 1920
 
@@ -20,11 +20,11 @@
                  NEW YORK · BOSTON · CHICAGO · DALLAS
                         ATLANTA · SAN FRANCISCO
 
-                   MACMILLAN & CO., LIMITED
+                       MACMILLAN & CO., LIMITED
                       LONDON · BOMBAY · CALCUTTA
                                MELBOURNE
 
-              THE MACMILLAN CO. OF CANADA, LTD.
+                   THE MACMILLAN CO. OF CANADA, LTD.
                                 TORONTO
 
 
@@ -1988,9 +1988,8 @@ not been attended to, Mr. Fuller was constrained to reply in a very
 severe way, No; he never ate jam--Three gold medals at the Paris and
 Vienna Exhibitions--but it was there every day, he believed.
 
-"It is there, because _I_ like it," said Miss Marchrose.
-
-"They never had anything but bread-and-butter till I came."
+"It is there, because _I_ like it," said Miss Marchrose. "They never
+had anything but bread-and-butter till I came."
 
 Edna's ever-ready eyebrows went up, but she still addressed herself
 exclusively to Fairfax Fuller.
@@ -4736,7 +4735,7 @@ her mother, a slightly vulgar woman who had always rather disliked
 the only one of her daughters whom she had not married off in early
 girlhood, had speedily discovered that the owner of Culmhayes was in
 need of a wife. Edna, who had so long and so vainly visualised herself
-as the ideal Héloïse to an as yet-unfound Ab[=e]lard, had had time to
+as the ideal Héloïse to an as yet-unfound Abēlard, had had time to
 become heartily sick of such barren dreams, and was by now prepared to
 relinquish them in favour of mere emancipation from spinsterhood and a
 restricted life.
@@ -9308,6 +9307,7 @@ plan."
 
 "Yes, quite finished," said Sir Julian, and, first signing his name, he
 sealed his letter.
+
 
     Cornwall, Jan., 1919.
     Surrey, June, 1919.
